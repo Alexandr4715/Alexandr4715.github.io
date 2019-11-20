@@ -1,0 +1,21 @@
+.header {
+    background: #0f42ab;
+}
+.header__inner {
+    padding-top: 30px;
+}
+.tel {
+    text-align: right;
+    
+    
+}
+.tel a {
+    color: lightyellow;
+}
+.container{
+    max-width: 1170px;
+}
+.title__top{
+    color: floralwhite;
+    margin-top: 63px;
+}
